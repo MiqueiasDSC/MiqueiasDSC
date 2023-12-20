@@ -1,4 +1,23 @@
-## Bem Vindo(a) ao perfil do MiqueiasDSC
+## Miqueias Dos Santos Cardoso
+
+👋 Olá, sou [Seu Nome], um entusiasta de programação apaixonado por criar soluções inovadoras. Atualmente, estou embarcando em minha jornada de aprendizado, explorando os fascinantes mundos do HTML, CSS e Java.
+
+#🚀 Aprendizado Atual:
+🌐 HTML e CSS: Estou aprimorando minhas habilidades na construção de páginas web, mergulhando em HTML para estruturação e CSS para estilo.
+☕ Java: Descobrindo os fundamentos da programação orientada a objetos com Java, e empolgado com as possibilidades que essa linguagem oferece.
+
+#📚 Formação Acadêmica:
+DevQuest, DevEmDobro.
+
+#💡 Projetos Pessoais:
+Atualmente, estou trabalhando em projetos pessoais para aplicar meus conhecimentos e desenvolver minha habilidade prática.
+
+#📫 Conecte-se Comigo:
+LinkedIn: https://www.linkedin.com/in/miqueias-cardoso-45483b257/
+GitHub: https://github.com/MiqueiasDSC
+
+#✨ Objetivo:
+Estou ansioso para explorar oportunidades e contribuir para projetos desafiadores.
 
 <div>
   <a href="https://github.com/MiqueiasDSC">
